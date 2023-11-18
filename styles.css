@@ -1,3 +1,13 @@
-h2 {
-    background-color: #eeee !important
+.form-body {
+    border:2px solid #eeee;
+    margin: 52px;
+    padding: 13px;
+}
+
+.message {
+    color: gray
+}
+
+p {
+    color: grey;
 }
